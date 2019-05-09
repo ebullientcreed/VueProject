@@ -1,29 +1,8 @@
-# upload-vue
+Install yarn and npm
+Add axios: yarn add axios
 
-## Project setup
-```
-yarn install
-```
+Go to upload-vue folder
+cmd:  yarn serve
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Go to upload-api folder
+cmd: yarn start
